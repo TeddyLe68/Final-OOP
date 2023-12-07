@@ -1,0 +1,10 @@
+D:\OOP\LibraryManageSystem\LibraryManageSystem\bin\Debug\LibraryManageSystem.exe.config
+D:\OOP\LibraryManageSystem\LibraryManageSystem\bin\Debug\LibraryManageSystem.exe
+D:\OOP\LibraryManageSystem\LibraryManageSystem\bin\Debug\LibraryManageSystem.pdb
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.csproj.AssemblyReference.cache
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.Form1.resources
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.Properties.Resources.resources
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.csproj.GenerateResource.cache
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.csproj.CoreCompileInputs.cache
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.exe
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.pdb
