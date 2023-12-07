@@ -57,11 +57,12 @@ namespace LibraryManageSystem
             DataSet ds = new DataSet();
             da.Fill(ds);
 
-            int n = 6;
 
             if (ds.Tables[0].Rows.Count != 0)
             {
-
+                this.Hide();
+                Home h = new Home();
+                h.Show();
             }
             else
             {

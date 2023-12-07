@@ -8,3 +8,4 @@ D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.csp
 D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.csproj.CoreCompileInputs.cache
 D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.exe
 D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.pdb
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.Home.resources
