@@ -9,3 +9,10 @@ D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.csp
 D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.exe
 D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.pdb
 D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.Home.resources
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.AddBooks.resources
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.ViewBook.resources
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.AddStudent.resources
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.ViewStudentInformation.resources
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.IssueBooks.resources
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.ReturnBook.resources
+D:\OOP\LibraryManageSystem\LibraryManageSystem\obj\Debug\LibraryManageSystem.CompleteBookDetails.resources
